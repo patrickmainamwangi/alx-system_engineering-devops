@@ -1,2 +1,2 @@
 #!/bin/bash
-tr écho{a..z}|tr -d'"écho{n..z} $(echo{a..m}|tr-d'"|trécho{A..Z}|tr -d'"écho{N..Z} $(echo {A..M}) | tr-d'"
+perl -lne "print if $. % 2 --1
